@@ -1,3 +1,6 @@
+#test files
+*.test
+
 # ipython files
 *.ipynb
 .ipynb_checkpoints
